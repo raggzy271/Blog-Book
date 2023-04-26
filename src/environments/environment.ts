@@ -4,19 +4,18 @@
 
 export const environment = {
   production: false,
-  
-  firebaseConfig :{
- apiKey: "",
- authDomain: "",
- databaseURL: "",
- projectId: "",
- storageBucket: "",
- messagingSenderId: "",
- appId: "",
- measurementId: ""
 
-}
-}
+  firebaseConfig: {
+    apiKey: "AIzaSyC1j4ApLga-V2_2S30tpMqEW55oAYRAg6o",
+    authDomain: "vicky-blog.firebaseapp.com",
+    databaseURL:
+      "https://vicky-blog-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "vicky-blog",
+    storageBucket: "vicky-blog.appspot.com",
+    messagingSenderId: "931970385912",
+    appId: "1:931970385912:web:efb4d642ebea32fd95780d",
+  },
+};
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
